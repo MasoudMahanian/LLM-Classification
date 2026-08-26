@@ -143,10 +143,8 @@ classifier.model_bert.load_state_dict(torch.load('bert_classifier.pth'))
 
 ### Training Curves
 
-<p align="center">
-  <img src="bert_classifier_training_curves.png" width="45%" />
-  <img src="Transformer_classifier_training_curves.png" width="45%" />
-</p>
+<p align="center"> <img src="https://github.com/MasoudMahanian/LLM-Classification/blob/main/Result/bert_classifier_training_curves.png" width="45%" /> <img src="https://github.com/MasoudMahanian/LLM-Classification/blob/main/Result/Transformer_classifier_training_curves.png" width="45%" /> </p><p align="center"> <img src="https://github.com/MasoudMahanian/LLM-Classification/blob/main/Result/GPT_bert_classifier_training_curves.png" width="90%" /> </p> <p align="center"><em>GPT-2 Augmented BERT Training Curves</em></p>
+
 
 
 ## Experiments
