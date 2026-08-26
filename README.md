@@ -36,7 +36,7 @@ The project demonstrates text classification tasks.
 ├── Transformer_classifier_training_curves.png
 ├── GPT_bert_classifier_training_curves.png
 ├── torch weights are avalavbe request to me MasoudMahan1997@gmail.com
-├── Data are avalavbe request to me MasoudMahan1997@gmail.com
+├── GPT-DATA generated and Data are avalavbe request to me MasoudMahan1997@gmail.com  ᶻ 𝗓 𐰁 .ᐟ
 ```
 
 ## Models
