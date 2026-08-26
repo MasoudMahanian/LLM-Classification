@@ -1,4 +1,4 @@
-# GitHub README for LLM Classification (BERT and Transformer Classification Projects)
+# LLM Classification (BERT and Transformer Classification Projects)
 
 Here's a comprehensive English README for your GitHub repository:
 
