@@ -1,9 +1,5 @@
 # LLM Classification (BERT and Transformer Classification Projects)
 
-Here's a comprehensive English README for your GitHub repository:
-
----
-
 # AG News Classification with BERT & Transformer Models
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
